@@ -1,6 +1,6 @@
-============================================
+
 Mancala Game - Console Application
-============================================
+
 
 This is a console-based implementation of the Mancala game in Java. The game is designed to be played by two players, where each player tries to capture as many stones as possible.
 
