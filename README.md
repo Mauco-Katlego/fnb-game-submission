@@ -1,5 +1,3 @@
-# fnb-game-submission
-
 ========================================
 Mancala Game - Console Application
 ========================================
